@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "mytwobywoAssetExists",
+        "transactionLabel": "A test mytwobywoAssetExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createMytwobywoAsset",
+        "transactionLabel": "A test createMytwobywoAsset transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readMytwobywoAsset",
+        "transactionLabel": "A test readMytwobywoAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateMytwobywoAsset",
+        "transactionLabel": "A test updateMytwobywoAsset transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteMytwobywoAsset",
+        "transactionLabel": "A test deleteMytwobywoAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
