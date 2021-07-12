@@ -5,4 +5,4 @@ Crowdfunding is a way of raising funds by asking the public for a, large or smal
 
 ![](images/business_process-blockchain.png)
 
-The codes are modified from the IBM tutorial as shown, using 2 Org template (2 CA, 2 peer, 1 channel) (*see Step four*): https://cloud.ibm.com/docs/blockchain-sw-251?topic=blockchain-sw-251-develop-vscode#develop-vscode-guided-tutorials
+The codes are modified from the IBM tutorial as shown, **but** using 2 Org template (2 CA, 2 peer, 1 channel) (*see Step four*): https://cloud.ibm.com/docs/blockchain-sw-251?topic=blockchain-sw-251-develop-vscode#develop-vscode-guided-tutorials
