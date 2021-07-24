@@ -1,7 +1,7 @@
 # OneHeart
 This is Team 1 of IMVCS-1101: **OneHeart Crowdfunding Project**.
 
-### Overview
+## Overview
 Crowdfunding is a way of raising funds by asking the public for a, large or small, amount of money as a form of donation. This project aims to create a new business process using blockchain technology. Hope this simple recording can help future learners embarking on a cybersecurity/blockchain journey. Here goes...
 
 ### Current Situation
@@ -24,12 +24,15 @@ Implementing the software communications flow into the architecture.
 
 ![](images/oneheart_arch.png)
 
-### Development Journey
-The codes are modified from the IBM tutorial as shown, tested using 1 and 2 Orgs templates* (2 CA, 2 peer, 1 channel) **before** moving onto the IBM Blockchain Platform. 
+## My Coding Development Journey
+The codes are modified from open source in the IBM tutorial, tested using 1 and 2 Orgs templates* (2 CA, 2 peer, 1 channel) **before** moving onto the IBM Blockchain Platform. 
 
 (*see Step four*): https://cloud.ibm.com/docs/blockchain-sw-251?topic=blockchain-sw-251-develop-vscode#develop-vscode-guided-tutorials
 
-To build the blockchain, I followed this tutorial series. This is the most comprehensive tutorial from IBM that I found, extracted here for easy reference. It tells you when to check your Wallet which no other similar tutorial gives you that resolution. It provided sample usernames and pw to make sure you do not go wrong. Obviously, to build your own blockchain, modified it to suit your needs. 
+To build the blockchain, I followed the below tutorial series (extracted here for easy reference). It even tells you when to check your Wallet which no other tutorials give you that resolution. To me, this is really helpful. It also provided sample usernames and pw to make sure you do not go wrong. Obviously to build your own blockchain, modify it to suit your needs. 
+
+_**My 2 cents worth...**_ I strongly recommend that you copy and paste the tutorial into a DOCX so that you can make you own notes along the way. Also do screenshoots to capture the changes, and purposely do the wrong steps so that to test out different settings/scenarios. I did all of these. If plainly follow the tutorial can build up a blockchain, everyone would have successfully done so but it is not. 
+
 
 **Sample network tutorial series**  
 This three-part tutorial series guides you through the process of creating and interconnecting a relatively simple, multi-node Hyperledger Fabric network by using the IBM Blockchain Platform console to deploy a network into your Kubernetes cluster and deploy a smart contract. 
@@ -56,14 +59,20 @@ This tutorial shows how to write a smart contract and deploy it on a network.
 > https://cloud.ibm.com/docs/blockchain?topic=blockchain-ibp-console-smart-contracts-v2#ibp-console-smart-contracts-v2
 
 
-**Proof Of Concept**
-With the above, I had successful built, tested and proven a working prototype blockchain which our team presented on 22 July 2021. We were thrilled to be the only team, out of six, that had developed a working blockchain architecture. All our transactions were via our dedicated OneHeart gateway - connection profile of the blockchain which I developed. Most important of all, all transactions (aka donations made) were added up instantaneously and recorded on the blockchain.
+## Proof Of Concept
+
+With the above, I had successful built, tested and proven a working prototype blockchain which our team presented on 22 July 2021. We were thrilled to be the _**only team**_, out of six, that had developed a working blockchain architecture. All our transactions were via our dedicated OneHeart gateway - connection profile of the blockchain which I developed. Most important of all, all transactions (aka donations made) in the Smart Contract were added up instantaneously and recorded on the blockchain.
 
 
 --------------------------------------
 
-## What's Next for Me
+# What's Next for Me
 
 The journey never stops. There are more to dive in. (a) Development Smart Contract in other programming languages and with more complexity, (b) create cloud native (client) applications to interface with the blockchain, and (c) research deeper into cybersecurity fences. 
 
+
+
+<b>Above ALL, and Always<b>
+ 
+_`tkokhing`_
 --------------------------------------
