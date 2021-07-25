@@ -1,8 +1,10 @@
 # OneHeart
-This is Team 1 of IMVCS-1101: **OneHeart Crowdfunding Project**.
+**OneHeart Crowdfunding Project** ~ This is a project by Team 1 of IMVCS-1101. I developed the coding for the blockchain, while the other three members looked into other aspects. 
+
+I am **documenting** this as I hope it can help future learners embarking on a cybersecurity/blockchain journey. Here goes...
 
 ## Overview
-Crowdfunding is a way of raising funds by asking the public for a, large or small, amount of money as a form of donation. This project aims to create a new business process using blockchain technology. Hope this simple recording can help future learners embarking on a cybersecurity/blockchain journey. Here goes...
+Crowdfunding is a way of raising funds by asking the public for a, large or small, amount of money as a form of donation. This project aims to create a new business process using blockchain technology. 
 
 ### Current Situation
 Below listed 5 problems with the current business process which our team had identified.
@@ -15,7 +17,7 @@ Combining the used of blockchain technology and a reviewed on the business proce
 ![](images/business_process-blockchain.gif)
 
 ### Communications
-This is the first draft design of the software communications flow between client application, blockchain consortium, and authorization and resource servers. 
+This is the first draft design of the software coding communications flow between client application, blockchain consortium, and authorization and resource servers. 
 
 ![](images/features_and_security.png)
 
@@ -31,7 +33,7 @@ The codes are modified from open source in the IBM tutorial, tested using 1 and 
 
 To build the blockchain, I followed the below tutorial series (extracted here for easy reference). It even tells you when to check your Wallet which no other tutorials give you that resolution. To me, this is really helpful. It also provided sample usernames and pw to make sure you do not go wrong. Obviously to build your own blockchain, modify it to suit your needs. 
 
-_**My 2 cents worth...**_ I strongly recommend that you copy and paste the tutorial into a DOCX so that you can make you own notes along the way. Also do screenshoots to capture the changes, and purposely do the wrong steps so that to test out different settings/scenarios. I did all of these. If plainly follow the tutorial can build up a blockchain, everyone would have successfully done so but it is not. 
+_**My 2 cents worth...**_ I strongly recommend that you copy and paste the tutorial into a DOCX so that you can make you own notes along the way. Also do screenshoots to capture the changes, and purposely do the wrong steps so that to test out different settings/scenarios. _I did all of these_. Consider this! If plainly follow the tutorial can build up a blockchain, everyone would have successfully done so, **but it is not**. 
 
 
 **Sample network tutorial series**  
@@ -68,7 +70,7 @@ With the above, I had successful built, tested and proven a working prototype bl
 
 # What's Next for Me
 
-The journey never stops. There are more to dive in. (a) Development Smart Contract in other programming languages and with more complexity, (b) create cloud native (client) applications to interface with the blockchain, and (c) research deeper into cybersecurity fences. 
+The journey never stops. There are more to dive into. (a) master linux, (b) development Smart Contract in other programming languages and with more complexity, (c) create cloud native (client) applications to interface with the blockchain, and (d) continue to research deeper into cybersecurity fences. 
 
 
 
