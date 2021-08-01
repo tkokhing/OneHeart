@@ -1,5 +1,7 @@
-# OneHeart
-**OneHeart Crowdfunding Project** ~ This is a project by Team 1 of IMVCS-1101. I developed the coding for the blockchain, while the other three members looked into other aspects. 
+# OneHeart Crowdfunding Project 
+This is a project by Team 1 of IMVCS-1101. I developed the coding for the Smart Contract and profiles in the IBM Blockchain Platform, while the other three members looked into other aspects. Out of six, we were the _**only team**_ that had developed a working blockchain architecture. 
+
+All transactions (aka donations) were made via our dedicated OneHeart gateway - connection profile of the blockchain which I developed. All donations were added up instantaneously and recorded on the blockchain - the most crucial feature demostrating that consensous has reached.
 
 I am **documenting** this as I hope it can help future learners embarking on a cybersecurity/blockchain journey. Here goes...
 
@@ -37,7 +39,7 @@ _**My 2 cents worth...**_ I strongly recommend that you copy and paste the tutor
 
 
 **Sample network tutorial series**  
-This three-part tutorial series guides you through the process of creating and interconnecting a relatively simple, multi-node Hyperledger Fabric network by using the IBM Blockchain Platform console to deploy a network into your Kubernetes cluster and deploy a smart contract. 
+IBM has rich tutorial resources. This three-part tutorial series explains the process of creating a simple multi-node Hyperledger Fabric network that builds on Kubernetes allowing the deployment of a smart contract. 
  
 **Tutorial 1 - Build a network**
 This tutorial guides you through the process of hosting a network by creating two organizations, one for your peer and another for your ordering service, and a channel. Use this tutorial if you want to form a blockchain consortium by creating an ordering service and adding organizations. 
@@ -63,7 +65,7 @@ This tutorial shows how to write a smart contract and deploy it on a network.
 
 ## Proof Of Concept
 
-With the above, I had successful built, tested and proven a working prototype blockchain which our team presented on 22 July 2021. We were thrilled to be the _**only team**_, out of six, that had developed a working blockchain architecture. All our transactions were via our dedicated OneHeart gateway - connection profile of the blockchain which I developed. Most important of all, all transactions (aka donations made) in the Smart Contract were added up instantaneously and recorded on the blockchain.
+With the above, I had successful built, tested and proven a working prototype blockchain which our team presented on 22 July 2021. 
 
 
 --------------------------------------
@@ -72,9 +74,6 @@ With the above, I had successful built, tested and proven a working prototype bl
 
 The journey never stops. There are more to dive into. (a) master linux, (b) development Smart Contract in other programming languages and with more complexity, (c) create cloud native (client) applications to interface with the blockchain, and (d) continue to research deeper into cybersecurity fences. 
 
-
-
 <b>Above ALL, and Always<b>
  
-_`tkokhing`_
 --------------------------------------
