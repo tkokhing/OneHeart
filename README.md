@@ -1,7 +1,7 @@
 # OneHeart Crowdfunding Project 
-This is a project by Team 1 of IMVCS-1101. I developed the coding for the Smart Contract and profiles in the IBM Blockchain Platform, while the other three members looked into other aspects. Out of six, we were the _**only team**_ that had developed a working blockchain architecture. 
+This is a project by Team 1 of IMVCS-1101. I covered (i) Enterprise Design Thinking (EDT), (ii) developed the coding for the Smart Contract and (iii) profiles in the IBM Blockchain Platform, while the other three members looked into other aspects. Out of six, we were the _**only team**_ that had developed a working blockchain architecture. 
 
-All transactions (aka donations) were made via our dedicated OneHeart gateway - connection profile of the blockchain which I developed. All donations were added up instantaneously and recorded on the blockchain - the most crucial feature demostrating that consensous has reached.
+All transactions (aka donations) were made via our dedicated OneHeart gateway - connection profile of the blockchain which I developed. The donations were added up instantaneously and recorded on the blockchain - the most crucial feature demostrating that consensous has reached.
 
 I am **documenting** this as I hope it can help future learners embarking on a cybersecurity/blockchain journey. Here goes...
 
