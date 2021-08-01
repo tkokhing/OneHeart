@@ -79,10 +79,10 @@ With the above, I had successful built, tested and proven a working prototype bl
 ## What's Next for Me
 
 The journey never stops. There are more to dive into. 
-* configure IBP on different machine simulating a different org
+* configure IBP on different machine simulating a different org while adding more attributes and peers
 * develop Smart Contract in other languages with more complexity 
 * create cloud native (client) applications to interface with the blockchain
-* continue to research deeper into cybersecurity fences. 
+* continue to research deeper into cybersecurity fences 
 
 <b>Above ALL, and Always<b>
  
