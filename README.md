@@ -5,7 +5,7 @@ I covered (i) Enterprise Design Thinking (EDT), (ii) developed the coding for th
 
 **Project Outcome**: Out of six, we were the _**only team**_ that had developed a working prototype blockchain architecture presented on 22 July 2021. What this means that all the transactions (or, donations) were made via our dedicated OneHeart gateway that I developed. In addition, the donations were added up instantaneously and recorded on the blockchain enforced by the Smart Contract - the most crucial feature demostrating that C.P.I.F had reached. 
 
-**Documentation** I hope that this recording of my [coding journey](https://github.com/tkokhing/OneHeart#my-coding-development-journey) can help future learners embarking on a blockchain development journey, as well as charting out what is next for myself now that the project has ended. Along with it, a brief [project outline](https://github.com/tkokhing/OneHeart#project-outline) as shown below.
+**Documentation** I hope that this recording of my [coding journey](https://github.com/tkokhing/OneHeart#my-coding-development-journey) can help future learners embarking on a blockchain development journey, as well as charting out what is next for myself now that the project has ended. Along with it, a brief [project outline](https://github.com/tkokhing/OneHeart#project-outline) as shown below. I also shared some **salient points** on other [lab exercises](https://github.com/tkokhing/Adventures/tree/main/IBM_myNotes) to enrich the learning.  
 
 --------------------------------------
 
