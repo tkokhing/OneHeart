@@ -83,7 +83,7 @@ Follow this tutorial to build up a basic blockchain network with one organizatio
 
 How can a consortium work with just one organization? So...
 * Study this tutorial (no video guide for this tut) to create more organizations and add them the network that you built.
-* What is not stated clearly is that you are playing this role of Developer B from Org B creating your organization **in the different machine** in order to join an existing network created in tutorial 1. This is what in the real-world is happening. 
+* What is not stated clearly is that you are playing this role of Developer B from Org B creating your organization **in the different machine using different account** in order to join an existing network created in tutorial 1. This is what in the real-world is happening. 
 * For learning purpose, you probably doubled-role and creating the all these (Org A and Org B) on the same machine like what I did. But, know the difference!
 > https://cloud.ibm.com/docs/blockchain?topic=blockchain-ibp-console-join-network#ibp-console-join-network
 
@@ -95,7 +95,26 @@ Finally, deploy your smart contract on a network.
 
 --------------------------------------
 
-| -------------------------------- | 
-| ## My Coding Development Journey |
-| -------------------------------- | 
+
+## The Output
+
+Here shows some essential steps to check along the way to ensure that you are on the right track.
+
+* Inside my IBM Cloud account, do check that on the Kubernetes dashboard for proper deployment
+
+![](images/k8s_deployment.gif)
+
+* As you add more CAs and Peers, do also check that their Identities are correspondingly created in the Wallet tab
+
+![](images/check_identities.gif)
+
+* At the development stage, define the purpose of the different channels clearly, such as:
+  * which user to achnor which identity
+  * which Org is the lead Org in making changes
+  * how many orgs are needed to commit changes
+
+![](images/channel_details.gif)
+
+* T.B.C
+
 
