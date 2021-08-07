@@ -95,5 +95,7 @@ Finally, deploy your smart contract on a network.
 
 --------------------------------------
 
-
+| -------------------------------- | 
+| ## My Coding Development Journey |
+| -------------------------------- | 
 
