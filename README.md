@@ -24,13 +24,8 @@ _Above ALL, and Always_
 --------------------------------------
 Crowdfunding is a way of raising funds by asking the public for a, large or small, amount of money as a form of donation. This project aims to create a new business process using blockchain technology. 
 
-### Current Situation
-Below listed 5 problems with the current business process which our team had identified.
-
-![](images/problem.gif)
-
-### Reviewed Business Process 
-Combining the used of blockchain technology and a reviewed on the business process, the proposed solution is as shown.  
+### Current Vs Reviewed Business Process 
+Below listed 5 problems with the current business process which our team had identified. Combining the used of blockchain technology, the proposed solution is as shown.  
 
 ![](images/business_process-blockchain.gif)
 
@@ -38,11 +33,6 @@ Combining the used of blockchain technology and a reviewed on the business proce
 This is the first draft design of the software coding communications flow between client application, blockchain consortium, and authorization and resource servers. 
 
 ![](images/features_and_security.png)
-
-### Architecture 
-Implementing the software communications flow into the architecture. 
-
-![](images/oneheart_arch.png)
 
 --------------------------------------
 ## My Coding Development Journey
@@ -103,6 +93,10 @@ Here shows some essential steps to check along the way to ensure that you are on
 * Inside my IBM Cloud account, do check that on the Kubernetes dashboard for proper deployment
 
 ![](images/k8s_deployment.gif)
+
+* Here's a look at what IBM Blockchain Platform is capable of enabling me to built in a short time span. Of course, this is built as a prototype only. 
+
+![](images/inside_OneHeartBlockchain.gif)
 
 * As you add more CAs and Peers, do also check that their Identities are correspondingly created in the Wallet tab
 
