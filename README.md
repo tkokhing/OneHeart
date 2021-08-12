@@ -1,4 +1,4 @@
-# OneHeart Crowdfunding Project 
+# OneHeart Crowdfunding Project (Hyperledger Fabric Blockchain)
 This is a project by Team 1 of IMVCS-1101. 
 
 I covered (i) Enterprise Design Thinking (EDT), (ii) developed the coding for the Smart Contract using [VS Code](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform) and (iii) profiles in the [IBM Blockchain Platform \(IBP)](https://cloud.ibm.com/docs/blockchain/howto/ibp-v2-deploy-iks.html#ibp-v2-deploy-iks), while the other three members looked into other aspects. 
