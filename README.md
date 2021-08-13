@@ -7,6 +7,10 @@ I covered (i) Enterprise Design Thinking (EDT), (ii) developed the coding for th
 
 **Documentation**: I hope that this recording of my [coding journey](https://github.com/tkokhing/OneHeart#my-coding-development-journey) can help future learners embarking on a blockchain development journey, as well as charting out what is next for myself now that the project has ended. Along with it, a brief [project outline](https://github.com/tkokhing/OneHeart#project-outline) as shown below. I also shared some **salient points** on other [lab exercises](https://github.com/tkokhing/Adventures/tree/main/IBM_myNotes) to enrich the learning.  
 
+**Before you proceed**: I always believe that tutorials should provide a snapshoot of final outcome first so that students know what is expected. Here is a 30-sec clip on the completed prototype. If it is not what you are looking for, search other gits. 
+
+![](images/prototype_snapshoot.gif)
+
 --------------------------------------
 
 ## What's Next for Me
@@ -109,6 +113,6 @@ Here shows some essential steps to check along the way to ensure that you are on
 
 ![](images/channel_details.gif)
 
-* T.B.C
+
 
 
